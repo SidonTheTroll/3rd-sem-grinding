@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:FM&HM  ",
+      "color": {
+        "a": 1,
+        "rgb": 2716369
+      }
+    },
+    {
+      "query": "path:\"Engineering Thermodynamics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:MS&E  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:MT  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:SM  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00909520807062,
+  "lineSizeMultiplier": 0.95734552332913,
+  "collapse-forces": false,
+  "centerStrength": 0.615384615384615,
+  "repelStrength": 13.0637558918383,
+  "linkStrength": 1,
+  "linkDistance": 180,
+  "scale": 0.2080983589899911,
+  "close": true
+}

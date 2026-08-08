@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "9c646e4ef9144c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d573f45784c611f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8439bd03ba7d4676",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "901ce021b48b07ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d94c8b744130ade1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c204a2236ae1fe6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d0e050ef54e6df87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "359e10a7f711efca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b7bdc4619d85edd",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a13a953f69092c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4e91d80f69158c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0e5879880d1f29fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a9667db6183971e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "160e3a43a8e533cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "92f787bfe2a32050",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9b1167ec690c0d77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "termy:Open terminal": false
+    }
+  },
+  "active": "8439bd03ba7d4676",
+  "lastOpenFiles": [
+    "FM&HM/7 - Hydraulic Turbines and Pumps/Hydraulic Turbines & Pumps.md",
+    "Untitled.md",
+    "FM&HM/7 - Hydraulic Turbines and Pumps/Untitled.md",
+    "MS&E/MS&E.md",
+    "MS&E/2 - Ferrous Metals and Alloys/Ferrous Metals and Alloys.md",
+    "MT/MT.md",
+    "FM&HM/FM&HM.md",
+    "MT/5 - Misc. Manufacturing and Machining Process/Misc. Manufacturing and Machining Process.md",
+    "MT/4 - Machining and Machine Tools/Machining and Machine Tools.md",
+    "MT/2 - Metal Forming Process/Metal Forming Process.md",
+    "Engineering Thermodynamics/Engineering Thermodynamics.md",
+    "Engineering Thermodynamics/5 - Air Standard Cycles/Air Standard Cycles.md",
+    "SM/SM.md",
+    "Engineering Thermodynamics/4 - Second Law of Thermodynamics/Second Law of Thermodynamics.md",
+    "Engineering Thermodynamics/3 - First Law of Thermodynamics and its Consequences/First Law of Thermodynamics and its Consequences.md",
+    "Engineering Thermodynamics/6 - Properties of Steam/Properties of Steam.md",
+    "Engineering Thermodynamics/7 - Fuels and Combustion/Fuels and Combustion.md",
+    "Engineering Thermodynamics/2 - Laws of Perfect Gases/Laws of Perfect Gases.md",
+    "Engineering Thermodynamics/1 - Introduction to Thermodynamics/Introduction to Thermodynamics.md",
+    "Engineering Thermodynamics/7 - Fuels and Combustion",
+    "Engineering Thermodynamics/6 - Properties of Steam",
+    "Engineering Thermodynamics/5 - Air Standard Cycles",
+    "Engineering Thermodynamics/4 - Second Law of Thermodynamics",
+    "Engineering Thermodynamics/3 - First Law of Thermodynamics and its Consequences",
+    "Engineering Thermodynamics/2 - Laws of Perfect Gases",
+    "Engineering Thermodynamics/1 - Introduction to Thermodynamics",
+    "SM/3 - Theory of Simple Bending and Deflection of Beams/Theory of Simple Bending and Deflection of Beams.md",
+    "SM/4 - Torsion in Shafts and Springs/Torsion in Shafts and Springs.md",
+    "SM/5 - Columns and Strut/Columns and Strut.md",
+    "SM/2 - Shear Force & Bending Moment Diagrams/Shear Force & Bending Moment Diagrams.md",
+    "SM/6 - Thin Cylindrical Shells/Thin Cylindrical Shells.md",
+    "SM/7 - Riveted Joints/Riveted Joints.md",
+    "SM/1 - Simple Stresses and Strains/Simple Stresses and Strains.md",
+    "SM/7 - Riveted Joints",
+    "SM/6 - Thin Cylindrical Shells",
+    "SM/5 - Columns and Strut"
+  ]
+}
