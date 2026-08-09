@@ -4,20 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "0d573f45784c611f",
-        "type": "tabs",
+        "id": "db8fca3d1e5b9f91",
+        "type": "split",
         "children": [
           {
-            "id": "8439bd03ba7d4676",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
+            "id": "dac4e7c25de97b8f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1113d3b9f1eba74",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7bb9257f99183684",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d49e368b0ee3b4ba",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {},
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -29,6 +52,7 @@
       {
         "id": "d94c8b744130ade1",
         "type": "tabs",
+        "dimension": 73.96514161220044,
         "children": [
           {
             "id": "c204a2236ae1fe6f",
@@ -51,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +97,23 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c6353b74f6785683",
+        "type": "tabs",
+        "dimension": 26.034858387799563,
+        "children": [
+          {
+            "id": "acb3529ec9db939a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
@@ -113,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FM&HM/FM&HM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -173,12 +215,12 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,25 +231,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "termy:Open terminal": false
+      "termy:Open terminal": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8439bd03ba7d4676",
+  "active": "d49e368b0ee3b4ba",
   "lastOpenFiles": [
+    "__Books/Thermodynamics.pdf",
+    "__Books/SM.pdf",
+    "__Books/MT.pdf",
+    "__Books/MS&E.pdf",
+    "__Books/FM&HM.pdf",
+    "SM/SM.md",
+    "__Books",
+    "SM/attachments/IMG_20260809_134549~2.jpg",
+    "SM/attachments/IMG_20260809_134545~2.jpg",
+    "SM/attachments",
+    "loads.jpg",
+    "Index.md",
+    "moments.jpg",
+    "Renewable Energy Technology/Renewable Energy Technology.md",
+    "FM&HM/FM&HM.md",
+    "FM&HM/1 - Fluid Statics/Fluid Statics.md",
+    "Engineering Thermodynamics/Engineering Thermodynamics.md",
+    "thermodynami.md",
+    "Untitled.base",
     "FM&HM/7 - Hydraulic Turbines and Pumps/Hydraulic Turbines & Pumps.md",
-    "Untitled.md",
     "FM&HM/7 - Hydraulic Turbines and Pumps/Untitled.md",
     "MS&E/MS&E.md",
     "MS&E/2 - Ferrous Metals and Alloys/Ferrous Metals and Alloys.md",
     "MT/MT.md",
-    "FM&HM/FM&HM.md",
     "MT/5 - Misc. Manufacturing and Machining Process/Misc. Manufacturing and Machining Process.md",
     "MT/4 - Machining and Machine Tools/Machining and Machine Tools.md",
     "MT/2 - Metal Forming Process/Metal Forming Process.md",
-    "Engineering Thermodynamics/Engineering Thermodynamics.md",
     "Engineering Thermodynamics/5 - Air Standard Cycles/Air Standard Cycles.md",
-    "SM/SM.md",
     "Engineering Thermodynamics/4 - Second Law of Thermodynamics/Second Law of Thermodynamics.md",
     "Engineering Thermodynamics/3 - First Law of Thermodynamics and its Consequences/First Law of Thermodynamics and its Consequences.md",
     "Engineering Thermodynamics/6 - Properties of Steam/Properties of Steam.md",
@@ -217,19 +274,8 @@
     "Engineering Thermodynamics/7 - Fuels and Combustion",
     "Engineering Thermodynamics/6 - Properties of Steam",
     "Engineering Thermodynamics/5 - Air Standard Cycles",
-    "Engineering Thermodynamics/4 - Second Law of Thermodynamics",
-    "Engineering Thermodynamics/3 - First Law of Thermodynamics and its Consequences",
-    "Engineering Thermodynamics/2 - Laws of Perfect Gases",
-    "Engineering Thermodynamics/1 - Introduction to Thermodynamics",
     "SM/3 - Theory of Simple Bending and Deflection of Beams/Theory of Simple Bending and Deflection of Beams.md",
     "SM/4 - Torsion in Shafts and Springs/Torsion in Shafts and Springs.md",
-    "SM/5 - Columns and Strut/Columns and Strut.md",
-    "SM/2 - Shear Force & Bending Moment Diagrams/Shear Force & Bending Moment Diagrams.md",
-    "SM/6 - Thin Cylindrical Shells/Thin Cylindrical Shells.md",
-    "SM/7 - Riveted Joints/Riveted Joints.md",
-    "SM/1 - Simple Stresses and Strains/Simple Stresses and Strains.md",
-    "SM/7 - Riveted Joints",
-    "SM/6 - Thin Cylindrical Shells",
-    "SM/5 - Columns and Strut"
+    "SM/5 - Columns and Strut/Columns and Strut.md"
   ]
 }

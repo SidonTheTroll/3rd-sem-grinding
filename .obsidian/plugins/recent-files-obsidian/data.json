@@ -1,0 +1,36 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Thermodynamics",
+      "path": "__Books/Thermodynamics.pdf"
+    },
+    {
+      "basename": "SM",
+      "path": "SM/SM.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "Renewable Energy Technology",
+      "path": "Renewable Energy Technology/Renewable Energy Technology.md"
+    },
+    {
+      "basename": "FM&HM",
+      "path": "FM&HM/FM&HM.md"
+    },
+    {
+      "basename": "Fluid Statics",
+      "path": "FM&HM/1 - Fluid Statics/Fluid Statics.md"
+    },
+    {
+      "basename": "Engineering Thermodynamics",
+      "path": "Engineering Thermodynamics/Engineering Thermodynamics.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

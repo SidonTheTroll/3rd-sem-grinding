@@ -32,7 +32,7 @@
       "query": "path:MT  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 15597823
       }
     },
     {
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"Renewable Energy Technology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.00909520807062,
-  "lineSizeMultiplier": 0.95734552332913,
+  "lineSizeMultiplier": 2.12325819672131,
   "collapse-forces": false,
-  "centerStrength": 0.615384615384615,
+  "centerStrength": 0.497399117276167,
   "repelStrength": 13.0637558918383,
   "linkStrength": 1,
   "linkDistance": 180,
-  "scale": 0.2080983589899911,
-  "close": true
+  "scale": 0.45701521109586896,
+  "close": false
 }
