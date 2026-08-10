@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "db8fca3d1e5b9f91",
-        "type": "split",
+        "id": "2c32ca26b8e2d1b7",
+        "type": "tabs",
         "children": [
           {
-            "id": "dac4e7c25de97b8f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b1113d3b9f1eba74",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          },
-          {
-            "id": "7bb9257f99183684",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d49e368b0ee3b4ba",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal-view",
-                  "state": {},
-                  "icon": "terminal",
-                  "title": "Terminal"
-                }
-              }
-            ]
+            "id": "82f27cf2efc2ceae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,13 +191,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4690a4a825ab0673",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,11 +219,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "termy:Open terminal": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d49e368b0ee3b4ba",
+  "active": "82f27cf2efc2ceae",
   "lastOpenFiles": [
+    "FM&HM/1 - Fluid Statics/Fluid Statics.md",
     "__Books/Thermodynamics.pdf",
     "__Books/SM.pdf",
     "__Books/MT.pdf",
@@ -252,7 +241,6 @@
     "moments.jpg",
     "Renewable Energy Technology/Renewable Energy Technology.md",
     "FM&HM/FM&HM.md",
-    "FM&HM/1 - Fluid Statics/Fluid Statics.md",
     "Engineering Thermodynamics/Engineering Thermodynamics.md",
     "thermodynami.md",
     "Untitled.base",
@@ -273,7 +261,6 @@
     "Engineering Thermodynamics/1 - Introduction to Thermodynamics/Introduction to Thermodynamics.md",
     "Engineering Thermodynamics/7 - Fuels and Combustion",
     "Engineering Thermodynamics/6 - Properties of Steam",
-    "Engineering Thermodynamics/5 - Air Standard Cycles",
     "SM/3 - Theory of Simple Bending and Deflection of Beams/Theory of Simple Bending and Deflection of Beams.md",
     "SM/4 - Torsion in Shafts and Springs/Torsion in Shafts and Springs.md",
     "SM/5 - Columns and Strut/Columns and Strut.md"

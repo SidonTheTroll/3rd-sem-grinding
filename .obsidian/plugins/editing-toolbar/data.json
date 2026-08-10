@@ -4,6 +4,11 @@
   "positionStyle": "top",
   "menuCommands": [
     {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    },
+    {
       "id": "editing-toolbar:editor-undo",
       "name": "Undo Edit",
       "icon": "undo-glyph"
@@ -389,10 +394,34 @@
       "icon": "exit-fullscreen"
     }
   ],
-  "followingCommands": [],
-  "topCommands": [],
-  "fixedCommands": [],
-  "mobileCommands": [],
+  "followingCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
+  "topCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
+  "fixedCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
+  "mobileCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
   "enableMultipleConfig": false,
   "enableTopToolbar": true,
   "enableFollowingToolbar": false,
@@ -454,8 +483,8 @@
   "toolbarIconSize": 18,
   "useCurrentLineForRegex": false,
   "ai": {
-    "enabled": false,
-    "consentAccepted": false,
+    "enabled": true,
+    "consentAccepted": true,
     "onboardingShown": true,
     "providerMode": "pkmer-first",
     "enableInlineCompletion": true,
@@ -475,8 +504,21 @@
       "artifact": "03-agent"
     },
     "pkmer": {
-      "tokenExpiresAt": 0,
-      "userInfo": null
+      "tokenExpiresAt": 1786375198117,
+      "userInfo": {
+        "sub": "3475e83e-9869-47ed-a32b-d384d9e5b553",
+        "name": "Cy",
+        "email": "sidonthetroll@gmail.com",
+        "ai_quota": {
+          "quota": 50000000,
+          "usedQuota": 0,
+          "remainingQuota": 50000000,
+          "remainingTokens": 100,
+          "requestCount": 0
+        },
+        "thino": false,
+        "supporter": false
+      }
     },
     "enableCustomModel": false,
     "customModel": {
@@ -492,7 +534,9 @@
       "language": "auto",
       "prompt": "Generate YAML frontmatter for the current Obsidian note using the requested properties below.\n\nRequested properties:\n{properties}\n\nOutput language for generated values: {language}\n\nRules:\n- Return only one complete YAML frontmatter block wrapped in --- delimiters.\n- Use the target text as the note content.\n- Follow current and sibling-note frontmatter conventions from context when provided.\n- Keep values concise, practical, and useful for filtering or browsing.\n- Do not add explanations or markdown fences outside the YAML block."
     },
-    "customPromptHistory": [],
+    "customPromptHistory": [
+      "make this into a table"
+    ],
     "customPromptTemplates": [
       {
         "id": "template-demo-variables",
