@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c32ca26b8e2d1b7",
+        "id": "754a9e8d0ef90544",
         "type": "tabs",
         "children": [
           {
-            "id": "82f27cf2efc2ceae",
+            "id": "13a02a926761bc96",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -223,8 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82f27cf2efc2ceae",
+  "active": "13a02a926761bc96",
   "lastOpenFiles": [
+    "MS&E/1 - Crystal Structures and Bonds/Crystal Structures and Bonds.md",
+    "MS&E/1 - Crystal Structures and Bonds/Charts/material category.canvas",
+    "MS&E/1 - Crystal Structures and Bonds/Charts/Untitled.md",
+    "MS&E/1 - Crystal Structures and Bonds/Charts/Crystal structures.canvas",
+    "MS&E/1 - Crystal Structures and Bonds/Charts",
     "FM&HM/1 - Fluid Statics/Fluid Statics.md",
     "__Books/Thermodynamics.pdf",
     "__Books/SM.pdf",
@@ -260,9 +265,6 @@
     "Engineering Thermodynamics/2 - Laws of Perfect Gases/Laws of Perfect Gases.md",
     "Engineering Thermodynamics/1 - Introduction to Thermodynamics/Introduction to Thermodynamics.md",
     "Engineering Thermodynamics/7 - Fuels and Combustion",
-    "Engineering Thermodynamics/6 - Properties of Steam",
-    "SM/3 - Theory of Simple Bending and Deflection of Beams/Theory of Simple Bending and Deflection of Beams.md",
-    "SM/4 - Torsion in Shafts and Springs/Torsion in Shafts and Springs.md",
-    "SM/5 - Columns and Strut/Columns and Strut.md"
+    "SM/3 - Theory of Simple Bending and Deflection of Beams/Theory of Simple Bending and Deflection of Beams.md"
   ]
 }
