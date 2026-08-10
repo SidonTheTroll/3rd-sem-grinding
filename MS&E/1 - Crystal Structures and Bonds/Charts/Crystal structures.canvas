@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"aa3b1b85a54293a6","x":180,"y":-148,"width":120,"height":60,"type":"text","text":"Unit cell"},
+		{"id":"e23538be8e25f9e8","x":400,"y":-148,"width":100,"height":60,"type":"text","text":"Crystal"},
+		{"id":"a4cb32a400a90ffe","x":-280,"y":-148,"width":161,"height":60,"type":"text","text":"Liquid Metals"},
+		{"id":"38748f2a86b3d631","x":585,"y":-147,"width":155,"height":60,"type":"text","text":"Poly Crystals"},
+		{"id":"050bede36440d425","type":"text","text":"Amorphous","x":585,"y":-40,"width":155,"height":60},
+		{"id":"064813564e27a776","type":"text","text":"Single Crystal","x":585,"y":-260,"width":155,"height":60}
+	],
+	"edges":[
+		{"id":"0bf66b6dca7b97de","fromNode":"a4cb32a400a90ffe","fromSide":"right","toNode":"aa3b1b85a54293a6","toSide":"left","label":"Nucleation/solidification"},
+		{"id":"4b010524cfd40c7c","fromNode":"aa3b1b85a54293a6","fromSide":"right","toNode":"e23538be8e25f9e8","toSide":"left"},
+		{"id":"fd15e9b7032b887d","fromNode":"e23538be8e25f9e8","fromSide":"right","toNode":"38748f2a86b3d631","toSide":"left"},
+		{"id":"c016422601fe9fd9","fromNode":"e23538be8e25f9e8","fromSide":"right","toNode":"064813564e27a776","toSide":"left"},
+		{"id":"97a79f4060dcaf92","fromNode":"e23538be8e25f9e8","fromSide":"right","toNode":"050bede36440d425","toSide":"left"}
+	]
+}
