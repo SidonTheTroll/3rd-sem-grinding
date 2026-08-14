@@ -71,3 +71,15 @@ The viscosity under ordinary condition is not appreciably effect by changes in p
 It is the property of a liquid by virtue of which the molecules of the same liquid are attracted to one another. 
 ## Adhesion 
 It is the property of a liquid by virtue of which its molecules are attracted by the molecules of other substance. 
+# Surface Tension 
+It is defined as the tensile force acting on the free surface of a liquid in contact with gas or one the surface between two immiscible liquids such that the contact surface acts like a membrane under tension. 
+- Examples of surface tension are: 
+	1. Rain drops 
+	2. Collection of dust particles on water surface 
+	3. Birds can drink water from ponds 
+	4. Breakup of liquid jets 
+	5. Capillary rise in capillary siphoning
+
+Surface tension is measured as the tensile force per unit length of free surface and usually denoted by $\sigma$. In SI unit, surface tension $(\sigma)$ is expressed in $N/m$
+# Capillarity 
+It is a phenomenon by which a liquid (depending upon its specific gravity) rises into a thin glass tube above or below its ground level. This phenomenon is due to the combined effect of cohesion and adhesion of liquid particles. 
