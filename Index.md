@@ -12,8 +12,13 @@
 | 6           | Renewable | Thermo  | SM      | EIK&T   | MT Lab      | MT Lab      | MT Lab      |
 
 ## [[Engineering Thermodynamics]]
+- Link to book: [[Thermodynamics.pdf]]
 ## [[FM&HM]]
+- Link to book: [[FM&HM.pdf]]
 ## [[MS&E]]
+- Link to book: [[MS&E.pdf]]
 ## [[MT]]
+- Link to book: [[MT.pdf]]
 ## [[Renewable Energy Technology]]
 ## [[SM]]
+- Link to book: [[SM.pdf]]
