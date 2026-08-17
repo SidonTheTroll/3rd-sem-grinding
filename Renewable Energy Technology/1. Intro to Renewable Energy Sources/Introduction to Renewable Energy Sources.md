@@ -22,4 +22,4 @@ A thermal power plant generates electrical energy from a conventional, non-renew
 	4. Electricity generation 
 	5. Condensation and recycling 
 ## Integrated Gasification Combined Cycle 
-An IGCC is an advanced thermal power station that converts solid fuels like coal into synthetic gas. It cleans the gas before burning it in a gas turbine and uses waste heat to drive a steam turbine, acheving higher efficiency and lower emissions than standard coal plants. 
+An IGCC is an advanced thermal power station that converts solid fuels like coal into synthetic gas. It cleans the gas before burning it in a gas turbine and uses waste heat to drive a steam turbine, achieving higher efficiency and lower emissions than standard coal plants. 
