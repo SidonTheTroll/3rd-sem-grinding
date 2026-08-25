@@ -34,17 +34,17 @@ A gas turbine plant is an internal combustion system that uses pressurized air a
 ## New Technology 
 Fuel cells, bio fuels and hydrogen energy system form an interconnected suite of clean tech solutions designed to replace fossil fuels. They generate power through electrochemical reactions or organic matter conversion, yielding high energy density, reguced carbon footprint and scalable applications for transport industry and powergrids. 
 
-- **Fuel cell:** it is a reuauable electrochemical cell that converts chemical energy directly into heat or electricity for power. 
+- **Fuel cell:** it is a reusable electrochemical cell that converts chemical energy directly into heat or electricity for power. 
 - **Bio fuel:** it is the fuel produced from biomass that undergoes anaerobic reactions to produce methane for combustion.
 - **Hydrogen energy:** it is the energy obtained from hydrogen that is used through fuel cell for combustion to produce clean energy. 
 
 ## Energy Parameter 
 - **Energy Policy:** a set of rules and goals made by a government to guide power production, pricing and use. 
-- **Energy planning:** the process of looking at future power needed and matching them with available fuel orgreen resources.
+- **Energy planning:** the process of looking at future power needed and matching them with available fuel or green resources.
 - **Energy conservation:** the act of using less power by turning off idle machines or changing daily habits. 
 - **Energy management:** a system used by business to track and lower its total power use over time. 
 - **Energy Audit:** an inspection of a building or factory to find where power is wasted and how to fix it. 
-- **Energy efficiency:** getting more work downe using the exact same amount of power or less. 
+- **Energy efficiency:** getting more work done using the exact same amount of power or less. 
 - **Energy intensity:** the total amount of power needed to produce one unit of economic output or money. 
 - **Energy GDP Elasticity:** a ratio that shows how fast power use grows when the total economic GDP grows. 
 
@@ -53,3 +53,11 @@ Fuel cells, bio fuels and hydrogen energy system form an interconnected suite of
     - Fuel $\rightarrow$ Electricity/Mechanical power $\rightarrow$ Thermal Energy 
 - Bottoming Cycle 
     - Fuel $\rightarrow$ High temperature thermal energy $\rightarrow$ Electricity 
+
+## Important Aspects of Energy Conservation 
+- Four pillars of Conservation 
+    1. Behavioral changes
+    2. Energy efficiency 
+    3. Renewable integration 
+    4. Optimized climate control
+    5. Sustainable transport
