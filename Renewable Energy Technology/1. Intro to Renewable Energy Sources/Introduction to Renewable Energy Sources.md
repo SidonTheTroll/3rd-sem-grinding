@@ -61,3 +61,11 @@ Fuel cells, bio fuels and hydrogen energy system form an interconnected suite of
     3. Renewable integration 
     4. Optimized climate control
     5. Sustainable transport
+
+## Ragone Chart
+It is a chart/graph depicting the energy density and power density of different energy storing devices. 
+
+- Capacitors have the highest power density but lowest energy density. 
+- Supercapacitors have varying adjustible power and energy density. 
+- And battery and fuel cells have the lowest power density but highest energy density. 
+
