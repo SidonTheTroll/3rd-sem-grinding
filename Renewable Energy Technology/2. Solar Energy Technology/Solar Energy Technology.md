@@ -65,15 +65,28 @@ The radiation balance between she sun and earth is defined by two distinct regio
 ## Pyrheliometer 
 A pyrheloimeter measures Direct Normal Irradiance (DNI), i.e., solar radiation received by a surface perpendicular to sun's rays. 
 ### Working Principle 
-1. Sunlight enters through a collimator turbe (narrow field of view, ~5 degrees). 
+1. Sunlight enters through a collimator tube (narrow field of view, ~5 degrees). 
 2. It strikes a thermopile sensor or absorbed, which converts heat into an electrical signal. 
 3. The output is expressed in watts per meter square ($W/m^2$) 
 
 - **Mounting:** it is usually placed on a solar tracker that continuously aligns the instrument with the sun's position throughout the day. 
 
 - Applications:
-    1. Meterological and climate observations 
+    1. Meteorological and climate observations 
     2. Solar energy resource assessment (photovoltaic and concentrating solar power systems).
     3. Material testing under solar radiation. 
 
+## Photoelectric Sunshine Recorder 
+A photoelectric sunshine recorder is a modern instrument that automatically measures sunshine duration using photodiodes and electronic processing, replacing older manual methods like the Campbelll-Stokes Recorder. It detects direct solar radiation above a threshold (typically 120 $W/m^2$ as defined by the World Meterological Organization) and records the hours of bright sunshine. 
+### Working Process 
+1. Sunlight enters through the lens/diffuser.
+2. Photodiodes measure radiation intensity. 
+3. If radiation > $120\ W/m^2$, then sunshine is recorded. 
+4. Data is stored in memory and displayed on LCD or transferred to a PC. 
+5. Continuous logging provides daily sunshine duration. 
+## Solar Time 
+Solar times is based on the position of the sun in the sky. 
+
+- **True solar time:** noon occurs when the sun is at the highest point (local meridian).
+- It differs slightly from clock time because the earth's orbit is elliptical and its axis is tilted. 
 
