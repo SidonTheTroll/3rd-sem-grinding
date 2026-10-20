@@ -67,8 +67,8 @@ The apparatus consists of a double acting cylinder reciprocating pump is operate
     - EMC = 3200 pulses/kW hr 
     - P = 1000 $kg/m^3$ 
     - g = 9.81 $m/s^2$ 
-    - $\nu_m = 0.8$ 
-    - $\nu_i = 0.7$
+    - $\eta_m = 0.8$ 
+    - $\eta_i = 0.7$
     - $h_\text{pg} = 1\ m$
 
 ## Observation Table 
