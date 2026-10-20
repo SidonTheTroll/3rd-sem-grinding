@@ -18,11 +18,11 @@ Head vs Discharge
 Pump efficiency vs Discharge 
 
 ## Introduction 
-A pump is a device, which lifts water from a lower level to a higher level at the expense of mechanical energy. Pump can be broadly classified into two categories, positive displacement & rotodynamic or dynamic pressure pumps. In a positive displacement pump, a small quantity of liquid is taken inside the pump and is displaced and forced out of the pump under pressure. The liquid inside a positive displacement pump may be subjected either to a reciprocating motion (reciprocating pump)or to a rotary/circular motion (gear pump, screw pump, etc.) 
+A pump is a device, which lifts water from a lower level to a higher level at the expense of mechanical energy. Pump can be broadly classified into two categories, positive displacement & rotodynamic or dynamic pressure pumps. In a positive displacement pump, a small quantity of liquid is taken inside the pump and is displaced and forced out of the pump under pressure. The liquid inside a positive displacement pump may be subjected either to a reciprocating motion (reciprocating pump) or to a rotary/circular motion (gear pump, screw pump, etc.) 
 
 ## Theory  
 Reciprocating pump consists a piston having a reciprocatory motion inside a cylinder with the help of connecting rod and a crack rotated by an electric motor, IC engine or any other suitable means. The cylinder is connected to the sump by the suction pipe and to the reservoir by the delivery pipe. Valves are provided at suction and delivery side and are non-returnable so that to allow the fluid in one direction only.  
-These pumps are applied where the fluid is required in a small quantity but at a high pressure. Reciprocating pumps are applied for vehicle washing, water supply for multistorey buildings, industries, etc. 
+These pumps are applied where the fluid is required in a small quantity but at a high pressure. Reciprocating pumps are applied for vehicle washing, water supply for multistory buildings, industries, etc. 
 
 ## Description 
 The apparatus consists of a double acting cylinder reciprocating pump is operated on closed circuit basis. An AC motor with three speeds is provided to regulate the rpm of the pump. Suction and delivery head can be varied by the valves provided and Pressure and Vacuum Gauges can measure it. Flow of water is measured by using measuring tank and stopwatch. 
