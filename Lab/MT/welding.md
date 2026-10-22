@@ -123,7 +123,7 @@ There are 5 types of welding positions:
 4. Vertical position
 5. Overhead position
 
-### Types of Electrodes
+## Types of Electrodes
 There are three types of electrodes:
 
 1. Bare electrode
@@ -159,3 +159,40 @@ In this method, a tungsten electrode and filler rods are used. An inert gas such
 
 ## Metal Inert Gas (MIG)
 In this method, the arc is generated between the base metal and a metallic wire electrode. Carbon dioxide gas is used for shielding and is supplied through a special type of torch. Both automatic and semi-automatic methods are used. A DC supply is essential for these methods, and both ferrous and non-ferrous metals can be welded. It is also known as MIG welding.
+
+# Drawings
+### Types of Flames 
+<img src="./img/Flames.jpg">
+
+### Electrode Weaving Technique in Stick Welding 
+<img src="./img/Electrode-Weaving.jpg">
+
+### Transformer-Rectifier Set 
+<img src="./img/Transformer-Rectifier-Set.jpg">
+
+### Welding Rectifier 
+<img src="./img/Welding-Rectifier.jpg">
+
+### Welding Joints 
+<img src="./img/Welding Joints.jpg">
+
+### Welding Equipments 
+<img src="./img/Welding-Equipments.jpg">
+
+### Cutting Operation 
+<img src="./img/Cutting-Operation.jpg">
+
+### Filing Operation 
+<img src="./img/Filing-Operation.jpg">
+
+### DC Generator 
+<img src="./img/DC-Generator.jpg">
+
+### Blow-Pipes
+<img src="./img/Blow-Pipe.jpg">
+
+### Automatic Water to Carbide Acetylene Generator 
+<img src="./img/Acetylene-generator.jpg">
+
+### Oxy-Acetylene Cutting Blow-Pipe 
+<img src="<img src="./img/Cutting-Blow-Pipe.jpg">
