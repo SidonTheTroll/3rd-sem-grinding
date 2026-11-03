@@ -27,15 +27,8 @@ These pumps are applied where the fluid is required in a small quantity but at a
 ## Description 
 The apparatus consists of a double acting cylinder reciprocating pump is operated on closed circuit basis. An AC motor with three speeds is provided to regulate the rpm of the pump. Suction and delivery head can be varied by the valves provided and Pressure and Vacuum Gauges can measure it. Flow of water is measured by using measuring tank and stopwatch. 
 
-## Utilities Required 
-1. Electricity supply: single plase, 220 V AC, 50 hz, 5-15 amp socket with earth connection 
-2. Water supply (initial fill) 
-3. Drain required 
-4. Floor area required: 1.5 m x 0.75 m 
-5. Tachometer to measure RPM 
-
 ## Experimental Procedure
-**Starting Procedure:**
+### **Starting Procedure:**
 
 1. Firstly, we clean the apparatus and make sure the tanks are free from dust.
 2. Then we close the drain valves provided.
@@ -54,7 +47,7 @@ The apparatus consists of a double acting cylinder reciprocating pump is operate
 15. After that, we repeat the same procedure for different pressure heads.
 16. Finally, we repeat the same procedure for different RPMs using the step cone pulley.
 
-**Closing Procedure:**
+### **Closing Procedure:**
 1. Firstly, when the experiment is over, we properly open the gate valve on the discharge line.
 2. Then we switch OFF the pump first.
 3. Finally, we switch OFF the power supply to the panel (MCB).
@@ -72,8 +65,14 @@ The apparatus consists of a double acting cylinder reciprocating pump is operate
     - $h_\text{pg} = 1\ m$
 
 ## Observation Table 
-| S. No. | $N_i$ RPM | $P_d\ kg/cm^2$ | $P_s$ mm Hg | $R_1$ cm | $R_2$ cm | $t_1$ sec | $t_p$ sec | 
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | | | | | | 
-| | | | | | | | | 
-| | | | | | | | | 
+| S. No. | $N_i$ RPM | $P_d\ kg/cm^2$ | $P_s$ mm Hg | $R_1$ cm | $R_2$ cm | $t$ sec | $t_p$ sec | No. of pulses | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | 1600 | 2.9 | 165 | 12.5 | 7.4 | 5 | 5 | 3 | 
+| 2 | 1600 | 3 | 180 | 16.2 | 9.2 | 7 | 7 | 4 | 
+| 3 | 1600 | 3.1 | 185 | 23.4 | 14.2 | 10 | 10 | 5 |  
+
+<img src="./img/06/1.jpg">
+<img src="./img/06/2.jpg">
+<img src="./img/06/3.jpg">
+<img src="./img/06/4.jpg">
+<img src="./img/06/5.jpg">
