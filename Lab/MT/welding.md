@@ -25,14 +25,18 @@
 4. Cutting 
 5. Filing 
 6. Squaring 
-7. Welding 
-8. Cleaning 
+7. Combined Filing
+8. Welding 
+9. Cleaning 
 
 ## Diary 
 | Description of work performed | Date | Time | 
 |-|:-:|:-:|
-| **Day 1**: Discussion and revision about joining metals, safety precautions, welding positions, types of joints and compleeted holding, measuring, marking and cutting of the workpiece. | 3/10/26 | 3 hours | 
+| **Day 1**: Discussion and revision about joining metals, safety precautions, welding positions, types of joints and completed holding, measuring, marking and cutting of the workpiece. | 3/10/26 | 3 hours | 
 | **Day 2**: Started and completed filing and squaring operation on the workpiece. | 12/10/26 | 3 hours | 
+| **Day 3**: Started and completed combined filing | 31/10/26 | 3 hours | 
+| **Day 4:** Checked workpieces and done surface cleaning | 7/11/26 | 3 hours | 
+
 
 > [!NOTE]
 > **Given dimension:** 100x40x5 mm
