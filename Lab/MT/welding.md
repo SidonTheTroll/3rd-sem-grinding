@@ -1,5 +1,6 @@
 # Job Card 
 ## A. Sketch this Job with Particulars 
+![job](./img/welding-job.jpg)
 ## B. Materials for the Job
 1. M/S Flat bar: 2 pcs
 2. M/S Electrode size 3.15 mm: 10 SWG
@@ -36,10 +37,11 @@
 | **Day 2**: Started and completed filing and squaring operation on the workpiece. | 12/10/26 | 3 hours | 
 | **Day 3**: Started and completed combined filing | 31/10/26 | 3 hours | 
 | **Day 4:** Checked workpieces and done surface cleaning | 7/11/26 | 3 hours | 
-
+| **Day 5:** Prepared lap joint using arc welding and cleaned the job, finishing it. | 17/11/26 | 3 hours | 
 
 > [!NOTE]
-> **Given dimension:** 100x40x5 mm
+> **Given dimension:** 103x40x5 mm  
+> **Check up dimension:** 100x40x5 mm
 
 # Journal 
 ## Machines in Welding
