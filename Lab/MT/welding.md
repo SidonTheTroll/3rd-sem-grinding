@@ -201,4 +201,4 @@ In this method, the arc is generated between the base metal and a metallic wire 
 <img src="./img/Acetylene-generator.jpg">
 
 ### Oxy-Acetylene Cutting Blow-Pipe 
-<img src="<img src="./img/Cutting-Blow-Pipe.jpg">
+<img src="./img/Cutting-Blow-Pipe.jpg">
