@@ -27,11 +27,14 @@ Stiffness (S) of the spring is defined as load per unit deflection, $S = W/\delt
 5. Calculate the stiffness and the modulus of rigidity of the spring material.
 
 ## Observation and Result
-- Diameter of the spring rod, $d$ =
-- Outside diameter of the spring coil, $D$ =
-- Mean coil radius, $R = (D - d)/2$ =
-- No. of turns of the coil of the spring, $n$ =
+- Diameter of the spring rod, $d$ = 0.4 cm 
+- Outside diameter of the spring coil, $D$ = 36 cm 
+- Mean coil radius, $R = (D - d)/2$ = (3.6 - 0.4)/2 = 1.6 cm 
+- No. of turns of the coil of the spring, $n$ = 50 
 - Least count of the vernier = 1 main scale division - 1 vernier scale division
     - = 1 - 0.9 mm
     - = 0.1 mm
     - = 0.01 cm
+
+![table](./img/5/table.jpg)
+![apparatus](./img/5/apparatus.jpg)

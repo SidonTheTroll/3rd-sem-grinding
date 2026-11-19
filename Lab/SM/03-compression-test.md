@@ -27,3 +27,5 @@ Avery's compression testing machine, meter scale, bricks
 | No. of Observation | Yield point load $(P_Y)$, kg | Ultimate load $(P_U)$, kg | Yield stress, $F_y = P_Y/A$, $kg/cm^2$ | Ultimate stress, $F_u = P_U/A$, $kg/cm^2$ |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | 1 | 3500 | 9500 | 15.91 | 43.18 |
+
+![apparatus](./img/3/apparatus.jpg)

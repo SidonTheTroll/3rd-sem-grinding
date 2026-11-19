@@ -19,7 +19,7 @@ $$
 2. The diameter of the wire is measured by means of screw gauge (taking the average of three reading at different length) and the cross sectional area (A) is calculated. 
 3. The length of the experimental wire is measured by means of meter scale. 
 4. The spirit level is brought to horizontal and the initial reading $(S_1)$ of the vernier is noted. 
-5. A known weight is put gently in the hooko at the end of the wire. 
+5. A known weight is put gently in the hook at the end of the wire. 
 6. The spirit level is brought to horizontal (care being taken to note the screw always in the same direction) another final reading of the vernier scale $(S_2)$ is noted. 
 7. The elongation $(\delta l)$ is found out by deducing $S_1$ from $S_2$. 
 8. Load is gently put on the hook gradually and elongation at the different loads is calculated out by taking the vernier reading. 
@@ -27,8 +27,12 @@ $$
 10. The Young's moduluss or modulus of elasticity is then calculated out. 
 
 ## Observation and Result
-- Original length of the wire, L = 
-- Diameter of the wire, d = 
-- Cross sectional area, A = 
-- Original reading of vernier, S = 
+- Original length of the wire, L = 65 cm
+- Diameter of the wire, d = (0.52 + 0.74 + 0.58)/3 mm = 0.61 mm = 0.061 cm 
+- Cross sectional area, A = $\pi/4\times d^2 = 0.00292 cm^2$
+- Original reading of vernier, S = 0.678 cm
 
+![table](./img/4/table.jpg)
+
+![1](./img/4/1.jpg)
+![2](./img/4/2.jpg)
