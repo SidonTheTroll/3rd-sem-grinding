@@ -34,7 +34,10 @@ We have,
 7. Calculate the values of shear stress and modulus of rigidity.
 
 ## Observation and Result
-- Circumference of the pulley, $2\pi r$ =
-- Radius of the pulley, $r$ =
-- Diameter of the rod, $d$ =
-- Polar moment of inertia, $I_P$ = 
+- Circumference of the pulley, $2\pi r$ = 53.5 cm 
+- Radius of the pulley, $r$ = $\frac{c}{2\pi} = 8.51$ cm 
+- Diameter of the rod, $d$ = (5.4 + 5.1 + 5.8)/3 = 0.54 cm 
+- Polar moment of inertia, $I_P$ = $\pi / 32 \cdot d^4 = \frac{\pi}{32} \times 0.54^4 = 8.347 \times 10^{-3}$ cm  
+
+![table](./img/2/table.jpg)
+![apparatus](./img/2/apparatus.jpg)
