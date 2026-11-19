@@ -1,5 +1,5 @@
-![01](./img/01/1.jpg)
-![01](./img/01/2.jpg)
+![01](./img/1/1.jpg)
+![01](./img/1/2.jpg)
 
 - **Experiment no.:** 01 
 - **Aim:** TO determine ultimate tensile stress of a metal. 
@@ -65,4 +65,4 @@ Testing of Specimen Through Electronic Control Panel
 11. You will then get the load vs. displacement curve and all results.
 12. Connect the printer and take a printout.
 
-![graph](./img/01/test-certificate.jpg)
+![graph](./img/1/test-certificate.jpg)
