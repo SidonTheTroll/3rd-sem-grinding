@@ -1,4 +1,7 @@
-- **Expreiment no.:** 01 
+![01](./img/01/1.jpg)
+![01](./img/01/2.jpg)
+
+- **Experiment no.:** 01 
 - **Aim:** TO determine ultimate tensile stress of a metal. 
 - **Objective:** To conduct a tensile test on a mild steel specimen and determine the following: 
     1. Limit of proportionality 
@@ -6,7 +9,7 @@
     3. Yield Strength 
     4. Ultimate strength 
     5. Young's modulus of elasticity 
-    6. Percentage elonogation 
+    6. Percentage elongation 
     7. Percentage reduction in area
 
 ## Apparatus Required 
@@ -62,3 +65,4 @@ Testing of Specimen Through Electronic Control Panel
 11. You will then get the load vs. displacement curve and all results.
 12. Connect the printer and take a printout.
 
+![graph](./img/01/test-certificate.jpg)
